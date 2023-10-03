@@ -7,4 +7,4 @@ This project is a modified version of the metrics that were compiled each week f
 
 ## Dashboard
 Links below to dashboards using the data:
-- [Pipeline Metrics]([url](https://public.tableau.com/views/OpenPipelineMetrics/PipelineMetrics?:language=en-US&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/OpenPipelineMetrics/PipelineMetrics?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [Pipeline Metrics](https://public.tableau.com/views/OpenPipelineMetrics/PipelineMetrics?:language=en-US&:display_count=n&:origin=viz_share_link)
